@@ -8,6 +8,9 @@
   "packages": {
     "simple-schema": {},
     "collection2": {},
-    "moment": {}
+    "moment": {
+      "git": "https://github.com/serviewcare/meteor-moment.git",
+      "branch": "master"
+    }
   }
 }
